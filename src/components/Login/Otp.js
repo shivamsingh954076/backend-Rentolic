@@ -84,10 +84,7 @@ useEffect(() => {
               <span className="text-white text-lg ml-3">
                 RENTOLIC
               </span>
-              {/*  */}
-              <span className="text-white text-lg ml-3">
-                RENTOLIC
-              </span>
+             
             </a>
             <div className="my-auto">
               <img
